@@ -1,6 +1,4 @@
-### SEJA BEM-VINDO AO MEU GITHUB!! 👋
-
-## Olá! 👋 Me chamo Luiz Osaki
+## Luiz Henrique Osaki
 
 
 ° 💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 5º semestre.
@@ -17,9 +15,14 @@
  <hr>
 </div>
 
-<h2 align="center">Linguagens e ferramentas</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
+ Frontend:
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg"/>
