@@ -5,7 +5,9 @@
 
 ° 🎓 <strong>Ex-proano</strong>.
 
-° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
+° 🚀 Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software, inteligência artificial e computação científica.
+
+Tenho interesse em IA aplicada, análise de dados, automação e construção de sistemas modernos com interfaces minimalistas e alta interatividade.
 
 <div>
  <hr>
