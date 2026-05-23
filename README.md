@@ -47,4 +47,4 @@ Tenho interesse em IA aplicada, análise de dados, automação e construção de
 
 ## Estatísticas
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsaki&layout=compact&theme=dark&hide_border=true"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=LuizOsaki&show_icons=true&theme=dark&hide_border=true"></a>
