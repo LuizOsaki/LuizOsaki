@@ -1,11 +1,11 @@
 ## Luiz Henrique Osaki
 
 
-° 💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 5º semestre.
+💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 5º semestre.
 
-° 🎓 <strong>Ex-proano</strong>.
+🎓 <strong>Ex-proano</strong>.
 
-° 🚀 Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software, inteligência artificial e computação científica.
+🚀 Focado em desenvolvimento de software, inteligência artificial e computação científica.
 
 Tenho interesse em IA aplicada, análise de dados, automação e construção de sistemas modernos com interfaces minimalistas e alta interatividade.
 
@@ -44,3 +44,7 @@ Tenho interesse em IA aplicada, análise de dados, automação e construção de
 <a href="https://www.linkedin.com/in/luizosaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:luizosaki23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
+
+## Estatísticas
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsaki&layout=compact&theme=dark&hide_border=true"</a>
