@@ -25,23 +25,23 @@
 
 <img height="35em" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
 
+<img height="35em" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+## Backend & Data
+
+<img height="35em" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
 <img height="35em" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+
+<img height="35em" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+## AI & Scientific Computing
 
 <img height="35em" src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 
 <img height="35em" src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img height="35em" src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-
-
-
-
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
-</p>
 
 <div align="center"> 
  <h2 align="center">Conecte-se comigo <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
