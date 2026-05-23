@@ -18,9 +18,8 @@
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
-Frontend:
 
-<img height="35em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+<img height src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
