@@ -3,7 +3,7 @@
 ## Olá! 👋 Me chamo Luiz Osaki
 
 
-° 💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 4º semestre.
+° 💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 5º semestre.
 
 ° 🎓 <strong>Ex-proano</strong>.
 
