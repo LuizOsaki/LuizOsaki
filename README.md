@@ -41,13 +41,3 @@ Tenho interesse em IA aplicada, análise de dados, automação e construção de
 <a href="https://www.linkedin.com/in/luizosaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:luizosaki23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
-
-## Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizOsaki&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizOsaki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
