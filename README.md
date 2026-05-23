@@ -9,10 +9,7 @@
 
 Tenho interesse em IA aplicada, análise de dados, automação e construção de sistemas modernos com interfaces minimalistas e alta interatividade.
 
-
 <h2 align="center">Tecnologias</h2>
-
-<p align="center">
 
 ## Frontend
 
