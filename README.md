@@ -9,13 +9,6 @@
 
 Tenho interesse em IA aplicada, análise de dados, automação e construção de sistemas modernos com interfaces minimalistas e alta interatividade.
 
-<div>
- <hr>
- <a href="https://github.com/LuizOsaki">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizOsaki&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>  
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsaki&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
- <hr>
-</div>
 
 <h2 align="center">Tecnologias</h2>
 
