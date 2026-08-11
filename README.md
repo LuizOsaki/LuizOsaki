@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsakic&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
-![Luiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMiec&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&force=true)
+![Luiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizOsaki&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&force=true)
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>Estácio</strong>, atualmente no 5º semestre.
 
