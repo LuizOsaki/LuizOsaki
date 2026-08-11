@@ -70,9 +70,9 @@ https://github.com/LuizOsaki/analise-de-sentimentos.git
 **Project Name**
 Short description of the application and the problem it solves.
 
-`React` `Node.js` `MySQL`
+`React` `Node.js` `Python`
 
-[🔗 View Project](#)
+https://github.com/LuizOsaki/DermaIA.git
 
 ### 📊 Data & Scientific Computing
 
