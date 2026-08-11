@@ -63,7 +63,7 @@ Short description of the problem, what you built, and the technology used.
 
 `Python` `TensorFlow` `Pandas`
 
-(💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
+🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
 
 ### ⚡ Full-Stack Application
 
@@ -72,7 +72,7 @@ Short description of the application and the problem it solves.
 
 `React` `Node.js` `Python`
 
-(💻 Source code) https://github.com/LuizOsaki/DermaIA.git
+🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/DermaIA.git
 
 ### 📊 Data & Scientific Computing
 
@@ -81,7 +81,7 @@ Short description of the analysis, simulation or scientific application.
 
 `Python` `Streamlit` `Data Analysis`
 
-(💻 Source code) https://github.com/LuizOsaki/sir-model.git
+🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/sir-model.git
 
 ---
 
