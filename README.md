@@ -63,7 +63,7 @@ Short description of the problem, what you built, and the technology used.
 
 `Python` `TensorFlow` `Pandas`
 
-(🚀 Live Demo) https://dermaiaweb.vercel.app
+(🚀 Live Demo) https://classificador-de-sentimentos.streamlit.app
 (💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
 
 ### ⚡ Full-Stack Application
@@ -73,7 +73,8 @@ Short description of the application and the problem it solves.
 
 `React` `Node.js` `Python`
 
-🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/DermaIA.git
+(🚀 Live Demo)  https://dermaiaweb.vercel.app
+(💻 Source code) https://github.com/LuizOsaki/DermaIA.git
 
 ### 📊 Data & Scientific Computing
 
