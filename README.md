@@ -63,7 +63,7 @@ Short description of the problem, what you built, and the technology used.
 
 `Python` `TensorFlow` `Pandas`
 
-🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
+(🚀 Live Demo) https://dermaiaweb.vercel.app/ · (💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
 
 ### ⚡ Full-Stack Application
 
