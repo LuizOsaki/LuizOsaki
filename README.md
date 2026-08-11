@@ -83,7 +83,8 @@ Short description of the analysis, simulation or scientific application.
 
 `Python` `Streamlit` `Data Analysis`
 
-🚀 Live Demo · (💻 Source code) https://github.com/LuizOsaki/sir-model.git
+(🚀 Live Demo) https://sir-model.streamlit.app/
+(💻 Source code) https://github.com/LuizOsaki/sir-model.git
 
 ---
 
