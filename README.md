@@ -61,7 +61,7 @@
 **Analise de Sentimentos**
 Short description of the problem, what you built, and the technology used.
 
-`Python` `TensorFlow` `OpenCV`
+`Python` `TensorFlow` `Pandas`
 
 https://github.com/LuizOsaki/analise-de-sentimentos.git
 
@@ -76,12 +76,12 @@ https://github.com/LuizOsaki/DermaIA.git
 
 ### 📊 Data & Scientific Computing
 
-**Project Name**
+**SIR-MODEL**
 Short description of the analysis, simulation or scientific application.
 
 `Python` `Streamlit` `Data Analysis`
 
-[🔗 View Project](#)
+https://github.com/LuizOsaki/sir-model.git
 
 ---
 
