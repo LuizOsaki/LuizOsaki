@@ -63,7 +63,7 @@ Short description of the problem, what you built, and the technology used.
 
 `Python` `TensorFlow` `OpenCV`
 
-[🔗 View Project](#)
+[🔗 https://github.com/LuizOsaki/analise-de-sentimentos.git](#)
 
 ### ⚡ Full-Stack Application
 
