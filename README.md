@@ -58,7 +58,7 @@
 
 ### 🤖 AI & Machine Learning
 
-**Project Name**
+**Analise de Sentimentos**
 Short description of the problem, what you built, and the technology used.
 
 `Python` `TensorFlow` `OpenCV`
@@ -67,7 +67,7 @@ https://github.com/LuizOsaki/analise-de-sentimentos.git
 
 ### ⚡ Full-Stack Application
 
-**Project Name**
+**DermaIA**
 Short description of the application and the problem it solves.
 
 `React` `Node.js` `Python`
