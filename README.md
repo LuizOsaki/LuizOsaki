@@ -1,94 +1,55 @@
-# 👋 Hi, I'm Luiz Henrique Osaki
+# Luiz Henrique Osaki
 
-<div align="center">
+**Full-Stack Developer · AI & Scientific Computing**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header"/>
+São Paulo, Brazil · Systems Analysis and Development @ Estácio
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=32&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Scientific+Computing+Enthusiast;Building+Modern+%26+Interactive+Systems"/>
-
-</div>
+I'm a developer interested in building **modern software, intelligent systems, and data-driven applications**. My main interests are artificial intelligence, automation, data analysis, scientific computing, and interactive web applications.
 
 ---
 
-## 🚀 About Me
+## Tech Stack
 
-💻 **Full-Stack Developer** focused on building modern, interactive and scalable applications.
+**Frontend**
+React · JavaScript · Tailwind CSS
 
-🎓 Currently studying **Systems Analysis and Development** at **Estácio**.
+**Backend & Data**
+Python · Node.js · MySQL
 
-🤖 Interested in **Artificial Intelligence, Data Analysis, Automation and Scientific Computing**.
-
-🧠 I enjoy turning complex problems into simple, intuitive and well-designed software.
-
-🌎 Based in **São Paulo, Brazil**.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img height="35" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img height="35" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <img height="35" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img height="35" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img height="35" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img height="35" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
-### AI & Scientific Computing
-
-<p>
-  <img height="35" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img height="35" src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-  <img height="35" src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-</p>
+**AI & Scientific Computing**
+TensorFlow · OpenCV · Streamlit · Pandas
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-> A selection of projects that represent what I'm currently building and learning.
+### Analise de Sentimentos
 
-### 🤖 AI & Machine Learning
+A sentiment analysis application built to classify text and visualize the resulting predictions.
 
-**Analise de Sentimentos**
-Short description of the problem, what you built, and the technology used.
+**Python · TensorFlow · Pandas**
 
-`Python` `TensorFlow` `Pandas`
+[Live Demo](https://classificador-de-sentimentos.streamlit.app) · [Source Code](https://github.com/LuizOsaki/analise-de-sentimentos)
 
-(🚀 Live Demo) https://classificador-de-sentimentos.streamlit.app
-(💻 Source code) https://github.com/LuizOsaki/analise-de-sentimentos.git
+### DermaIA
 
-### ⚡ Full-Stack Application
+A web application combining a modern frontend with AI-powered functionality.
 
-**DermaIA**
-Short description of the application and the problem it solves.
+**React · Node.js · Python**
 
-`React` `Node.js` `Python`
+[Live Demo](https://dermaiaweb.vercel.app) · [Source Code](https://github.com/LuizOsaki/DermaIA)
 
-(🚀 Live Demo)  https://dermaiaweb.vercel.app
-(💻 Source code) https://github.com/LuizOsaki/DermaIA.git
+### SIR-MODEL
 
-### 📊 Data & Scientific Computing
+An interactive implementation of the SIR epidemiological model for exploring disease-spread dynamics.
 
-**SIR-MODEL**
-Short description of the analysis, simulation or scientific application.
+**Python · Streamlit · Data Analysis**
 
-`Python` `Streamlit` `Data Analysis`
-
-(🚀 Live Demo) https://sir-model.streamlit.app/
-(💻 Source code) https://github.com/LuizOsaki/sir-model.git
+[Live Demo](https://sir-model.streamlit.app) · [Source Code](https://github.com/LuizOsaki/sir-model)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
 <div align="center">
 
@@ -98,10 +59,6 @@ Short description of the analysis, simulation or scientific application.
 
 </div>
 
----
-
-## 📈 Activity
-
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizOsaki&bg_color=0D1117&color=00E5FF&line=00E5FF&point=00BFFF&area=true&area_color=003B5C&hide_border=true&force=true"/>
@@ -110,7 +67,7 @@ Short description of the analysis, simulation or scientific application.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Systems Analysis and Development**
 Estácio — São Paulo, Brazil
@@ -119,26 +76,14 @@ Estácio — São Paulo, Brazil
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/luizosaki/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="mailto:luizosaki23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/luizosaki/) · [Email](mailto:luizosaki23@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
+*Thanks for visiting.*
 
 </div>
