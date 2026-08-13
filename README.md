@@ -29,7 +29,8 @@ A sentiment analysis application built to classify text and visualize the result
 
 **Python · TensorFlow · Pandas**
 
-[Live Demo](https://classificador-de-sentimentos.streamlit.app) · [Source Code](https://github.com/LuizOsaki/analise-de-sentimentos)
+[🚀Live Demo](https://classificador-de-sentimentos.streamlit.app)
+[💻Source Code](https://github.com/LuizOsaki/analise-de-sentimentos)
 
 ### DermaIA
 
@@ -37,7 +38,8 @@ A web application combining a modern frontend with AI-powered functionality.
 
 **React · Node.js · Python**
 
-[Live Demo](https://dermaiaweb.vercel.app) · [Source Code](https://github.com/LuizOsaki/DermaIA)
+[🚀Live Demo](https://dermaiaweb.vercel.app)
+[💻Source Code](https://github.com/LuizOsaki/DermaIA)
 
 ### SIR-MODEL
 
@@ -45,7 +47,8 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 
 **Python · Streamlit · Data Analysis**
 
-[Live Demo](https://sir-model.streamlit.app) · [Source Code](https://github.com/LuizOsaki/sir-model)
+[🚀Live Demo](https://sir-model.streamlit.app)
+[💻Source Code](https://github.com/LuizOsaki/sir-model)
 
 ---
 
