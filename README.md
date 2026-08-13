@@ -56,14 +56,6 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOsaki&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00BFFF&text_color=C9D1D9&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsaki&layout=compact&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizOsaki&bg_color=0D1117&color=00E5FF&line=00E5FF&point=00BFFF&area=true&area_color=003B5C&hide_border=true&force=true"/>
 
 </div>
