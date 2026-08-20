@@ -62,16 +62,6 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 
 ---
 
-## Most used languages
-
-<div align="center">
-
-<img src="./profile/top-langs.svg" width="400">
-
-</div>
-
----
-
 ## Education
 
 **Systems Analysis and Development**
