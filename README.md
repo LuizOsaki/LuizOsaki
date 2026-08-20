@@ -66,9 +66,7 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOsaki&layout=pie"
-/>
+<img src="./profile/top-langs.svg" width="400">
 
 </div>
 
