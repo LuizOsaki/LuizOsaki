@@ -66,7 +66,7 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 
 <div align="center">
 
-<img src="./top-langs.svg" width="400">
+<img src="./profile/top-langs.svg" width="400">
 
 </div>
 
