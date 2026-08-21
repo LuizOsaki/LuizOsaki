@@ -67,7 +67,7 @@ An interactive implementation of the SIR epidemiological model for exploring dis
 **Systems Analysis and Development**
 Estácio — São Paulo, Brazil
 
-**Former Proano Student**
+**Former Proano Student 🧭**
 
 ---
 
