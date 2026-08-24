@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narendarcodes&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ffa657&area=true&hide_border=true" alt="Activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizOsaki&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ffa657&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 ## Systems Architecture
