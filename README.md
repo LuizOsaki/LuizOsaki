@@ -2,7 +2,7 @@
   <img src="" alt="Luiz Osaki" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=600&color=79C0FF&center=true&vCenter=true&width=940&lines=Agentic+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Orchestration;FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+React;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=600&color=79C0FF&center=true&vCenter=true&width=940&lines=AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Frontend;React%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+Tensorflow;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
   </a>
 
   <br />
