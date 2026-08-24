@@ -27,12 +27,12 @@
 ## Live Board
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Narendarcodes&theme=dark&hide_border=true&ring=79C0FF&fire=FFA657&currStreakLabel=79C0FF" alt="GitHub streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narendarcodes&theme=github_dark" alt="Profile details" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=LuizOsaki&theme=dark&hide_border=true&ring=79C0FF&fire=FFA657&currStreakLabel=79C0FF" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizOsaki&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizOsaki&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ffa657&area=true&hide_border=true" alt="Activity graph" />
+  <img width="98%" src="https://github-readme-activity-lu.vercel.app/graph?username=LuizOsaki&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ffa657&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 ## Systems Architecture
