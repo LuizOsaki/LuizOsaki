@@ -65,7 +65,7 @@
 ## Projects
 
 <p align="center">
-  <img src="./assets/repo-showcase.svg" alt="Featured repositories" width="100%" />
+  <img src="./assets/repo-showcase.svg" alt="Projects" width="100%" />
 </p>
 
 <p align="center">
