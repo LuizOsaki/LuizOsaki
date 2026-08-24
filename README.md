@@ -69,12 +69,13 @@
 </p>
 
 <p align="center">
-  (💻)<a href="https://github.com/LuizOsaki/DermaIA.git">DermaIA code</a><br>
+  (💻)<a href="https://github.com/LuizOsaki/DermaIA.git">DermaIA code</a>
   ·
-  (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA live demo</a><br>
+  (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA live demo</a>
   .
-  <a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a>
+  <a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a><br>
   ·
+  <a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a><br>
   <a href="https://github.com/LuizOsaki/c-machine-learning.git">CML - Machine learning</a>
   ·
   <a href="https://github.com/LuizOsaki/know-your-fan-id.git">Know your fan</a>
