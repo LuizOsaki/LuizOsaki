@@ -41,8 +41,8 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend icons" /><br />
-      <b>Agent Backends</b><br />
-      <sub>tools, memory, workers, APIs</sub>
+      <b>Frontend</b><br />
+      <sub>, memory, workers, APIs</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs" alt="Frontend icons" /><br />
@@ -52,7 +52,7 @@
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="AI Stack" /><br />
       <b>AI &amp; ML Stack</b><br />
-      <sub>PyTorch, LLM agents, pipelines</sub>
+      <sub>PyTorch, Tensorflow, Keras</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" alt="Engineering icons" /><br />
