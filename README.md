@@ -69,9 +69,9 @@
 </p>
 
 <p align="center">
-  (💻)<a href="https://github.com/LuizOsaki/DermaIA.git"></a>
+  (💻)<a href="https://github.com/LuizOsaki/DermaIA.git">DermaIA code</a><br>
   ·
-  (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA</a>
+  (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA live demo</a><br>
   .
   <a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a>
   ·
