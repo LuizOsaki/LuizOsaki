@@ -10,7 +10,7 @@
   <a href="mailto:luizosaki23@gmail.com"><img src="https://img.shields.io/badge/email-21262D?style=for-the-badge&logo=gmail&logoColor=FF7B72" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/luizosaki/"><img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=79C0FF" alt="LinkedIn" /></a>
   <a href="https://github.com/LuizOsaki"><img src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Narendarcodes&style=for-the-badge&color=21262D" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LuizOsaki&style=for-the-badge&color=21262D" alt="Profile views" />
 </div>
 
 <br />
@@ -62,20 +62,22 @@
   </tr>
 </table>
 
-## Featured Repositories
+## Projects
 
 <p align="center">
   <img src="./assets/repo-showcase.svg" alt="Featured repositories" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent">Autonomous WhatsApp Agent</a>
+  <a href="https://github.com/LuizOsaki/DermaIA.git">DermaIA</a>
   ·
-  <a href="https://github.com/Narendarcodes/Flowly-Be-Productive-With-AI">Flowly</a>
+  <a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a>
   ·
-  <a href="https://github.com/Narendarcodes/NaruClip-Engine">NaruClip Engine</a>
+  <a href="https://github.com/LuizOsaki/c-machine-learning.git">CML - Machine learning</a>
   ·
-  <a href="https://github.com/Narendarcodes/power-system-fault-detection">Power System Fault Detection</a>
+  <a href="https://github.com/LuizOsaki/know-your-fan-id.git">Know your fan</a>
+  .
+  <a href="https://github.com/LuizOsaki/sir-model.git">Modelo SIR</a>
 </p>
 
 ## Activity Feed
