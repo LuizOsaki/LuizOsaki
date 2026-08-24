@@ -7,9 +7,9 @@
 
   <br />
 
-  <a href="mailto:gollanarendar2004@gmail.com"><img src="https://img.shields.io/badge/email-21262D?style=for-the-badge&logo=gmail&logoColor=FF7B72" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/golla-narendar/"><img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=79C0FF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Narendarcodes"><img src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
+  <a href="mailto:luizosaki23@gmail.com"><img src="https://img.shields.io/badge/email-21262D?style=for-the-badge&logo=gmail&logoColor=FF7B72" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/luizosaki/"><img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=79C0FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/LuizOsaki"><img src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=Narendarcodes&style=for-the-badge&color=21262D" alt="Profile views" />
 </div>
 
