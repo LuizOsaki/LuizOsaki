@@ -76,12 +76,14 @@
   (💻)<a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a>
   ·
   (🚀)<a href="https://classificador-de-sentimentos.streamlit.app">Análise de sentimentos live demo</a><br>
-  .
-  <a href="https://github.com/LuizOsaki/c-machine-learning.git">CML - Machine learning</a>
   ·
-  <a href="https://github.com/LuizOsaki/know-your-fan-id.git">Know your fan</a>
+  (💻)<a href="https://github.com/LuizOsaki/know-your-fan-id.git">Know your fan code</a>
   .
-  <a href="https://github.com/LuizOsaki/sir-model.git">Modelo SIR</a>
+  (🚀)<a href="https://know-your-fan-id.streamlit.app/">Know your fan live demo</a><br>
+  .
+  (💻)<a href="https://github.com/LuizOsaki/sir-model.git">Modelo SIR code</a>
+  .
+  (🚀)<a href="https://sir-model.streamlit.app/">Modelo SIR live demo</a>
 </p>
 
 ## Activity Feed
