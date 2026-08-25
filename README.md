@@ -40,18 +40,18 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="AI Stack" /><br />
+      <img src="https://skillicons.dev/icons?i=py,js" alt="AI Stack" /><br />
       <b>AI &amp; AI Stack</b><br/>
       <sub>PyTorch, Tensorflow, Keras</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs" alt="Frontend icons" /><br />
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs" alt="Frontend icons" /><br />
       <b>Productivity UI</b><br/>
       <sub>extensions, panels, analytics</sub>
     </td>
         <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend icons" /><br />
-      <b>Frontend</b><br/>
+      <b>Backend</b><br/>
       <sub>Memory, workers, APIs</sub>
     </td>
   </tr>
