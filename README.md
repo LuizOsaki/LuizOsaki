@@ -40,8 +40,8 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=py,js" alt="AI Stack" /><br />
-      <b>AI &amp; AI Stack</b><br/>
+      <img src="https://skillicons.dev/icons?i=py,jv" alt="AI Stack" /><br />
+      <b>AI Stack</b><br/>
       <sub>PyTorch, Tensorflow, Keras</sub>
     </td>
     <td align="center" width="25%">
