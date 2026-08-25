@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=600&color=79C0FF&center=true&vCenter=true&width=940&lines=AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Frontend;React%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+Tensorflow;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
   </a>
 
-  <br />
+  <br/>
 
   <a href="mailto:luizosaki23@gmail.com"><img src="https://img.shields.io/badge/email-21262D?style=for-the-badge&logo=gmail&logoColor=FF7B72" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/luizosaki/"><img src="https://img.shields.io/badge/linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=79C0FF" alt="LinkedIn" /></a>
