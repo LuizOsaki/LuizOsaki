@@ -42,7 +42,7 @@
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=py,java" alt="AI Stack" /><br />
       <b>AI & Big Data</b><br/>
-      <sub>PyTorch, Tensorflow, Keras</sub>
+      <sub>Tensorflow, Keras, Hadoop</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs" alt="Frontend icons" /><br />
