@@ -40,24 +40,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend icons" /><br />
-      <b>Frontend</b><br />
-      <sub>, memory, workers, APIs</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs" alt="Frontend icons" /><br />
-      <b>Productivity UI</b><br />
-      <sub>extensions, panels, analytics</sub>
-    </td>
-    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="AI Stack" /><br />
-      <b>AI &amp; ML Stack</b><br />
+      <b>AI &amp; AI Stack</b><br/>
       <sub>PyTorch, Tensorflow, Keras</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" alt="Engineering icons" /><br />
-      <b>Engineering Hygiene</b><br />
-      <sub>docs, config, repo polish</sub>
+      <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs" alt="Frontend icons" /><br />
+      <b>Productivity UI</b><br/>
+      <sub>extensions, panels, analytics</sub>
+    </td>
+        <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend icons" /><br />
+      <b>Frontend</b><br/>
+      <sub>Memory, workers, APIs</sub>
     </td>
   </tr>
 </table>
