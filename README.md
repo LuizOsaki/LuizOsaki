@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square&logo=openai&logoColor=79C0FF" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=pytorch&logoColor=FF7B72" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/API%20Engineering-161B22?style=flat-square&logo=fastapi&logoColor=FFA657" alt="API Engineering" />
-  <img src="https://img.shields.io/badge/CBIT%20'28%20%7C%20GPTM%20'25-161B22?style=flat-square" alt="Education" />
+  <img src="https://img.shields.io/badge/Open%20Source-161B22?style=flat-square&logo=github&logoColor=C9D1D9" alt="Open Source" />
 </p>
 
 <br />
