@@ -41,7 +41,7 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=py,java" alt="AI Stack" /><br />
-      <b>AI Stack</b><br/>
+      <b>AI & Big Data</b><br/>
       <sub>PyTorch, Tensorflow, Keras</sub>
     </td>
     <td align="center" width="25%">
