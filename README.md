@@ -50,7 +50,7 @@
       <sub>extensions, panels, analytics</sub>
     </td>
         <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" alt="Backend icons" /><br />
+      <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,redis,docker" alt="Backend icons" /><br />
       <b>Backend</b><br/>
       <sub>Memory, workers, APIs</sub>
     </td>
