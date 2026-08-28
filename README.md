@@ -68,7 +68,7 @@
   ·
   (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA live demo</a><br>
   .
-  (💻)<a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos</a>
+  (💻)<a href="https://github.com/LuizOsaki/analise-de-sentimentos.git">Análise de sentimentos code</a>
   ·
   (🚀)<a href="https://classificador-de-sentimentos.streamlit.app">Análise de sentimentos live demo</a><br>
   ·
