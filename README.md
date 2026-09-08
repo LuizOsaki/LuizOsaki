@@ -30,10 +30,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizOsaki&theme=github_dark" alt="Profile details" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-lu.vercel.app/graph?username=LuizOsaki&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ffa657&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
 ## Systems Architecture
 
 <table>
