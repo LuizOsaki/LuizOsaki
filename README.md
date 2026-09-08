@@ -59,10 +59,6 @@
 ## Projects
 
 <p align="center">
-  <img src="./assets/repo-showcase.svg" alt="Projects" width="100%" />
-</p>
-
-<p align="center">
   (💻)<a href="https://github.com/LuizOsaki/DermaIA.git">DermaIA code</a>
   ·
   (🚀)<a href="https://dermaiaweb.vercel.app/">DermaIA live demo</a><br>
