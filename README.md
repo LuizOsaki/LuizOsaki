@@ -26,7 +26,7 @@
 ## Live Board
 
 <p align="center">
-    <img width="49%" src="https://streak-stats.demolab.com?user=LuizOsaki&theme=dark&hide_border=true&ring=79C0FF&fire=FFA657&currStreakLabel=79C0FF" alt="GitHub streak" />
+    <img width="49%" src="https://vercel.app" alt="GitHub streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizOsaki&theme=github_dark" alt="Profile details" />
 </p>
 
