@@ -26,7 +26,6 @@
 ## Live Board
 
 <p align="center">
-    <img width="49%" src="https://vercel.app" alt="GitHub streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizOsaki&theme=github_dark" alt="Profile details" />
 </p>
 
